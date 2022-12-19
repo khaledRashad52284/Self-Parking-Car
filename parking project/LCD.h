@@ -1,8 +1,6 @@
 /*
  * LCD.h
  *
- * Created: 2/23/2018 4:36:45 PM
- *  Author: Mohamed Zaghlol
  */ 
 
 #ifndef LCD_H_
